@@ -6,8 +6,5 @@
     📫 How to reach us: lara.landauro@gmail.com
     ⚡ Fun fact: Our team won the most unique design award! 
 
-More about our robot - The Garbage Terminator: 
-    - Design: 
-    - Electrical:
-    - Software: 
+Checkout our demo video! (among the files in the repo)
 
